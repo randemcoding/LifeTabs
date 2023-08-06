@@ -172,13 +172,10 @@ line-height: .3;
     z-index: 1;
 }
 #fitness-target{
-    display: inline-flex;
     position: relative;
-    z-index: 20;
-border: 1px solid white;
-height: 200px;
-width:20%;
-top: -5vh;
+    z-index: 1;
+    top:6vh;
+
 }
 #weight-lifting-container::-webkit-scrollbar {
     width: 12px;
