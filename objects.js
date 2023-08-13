@@ -39,8 +39,9 @@ export const screens = {
    </div>
   <div id="calendar-container">
     ${calendarInners}    
-  </div>
   <div id="fitness-target"></div>
+    
+  </div>
 
   <div id="form">
     
